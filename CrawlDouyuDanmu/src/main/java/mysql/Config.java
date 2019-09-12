@@ -9,9 +9,9 @@ import java.sql.Statement;
 
 
 public class Config {
-    public static String shema="douyu";
+    public static String schema="douyu";
     public static String driver="com.mysql.cj.jdbc.Driver";
-    public static String url="jdbc:mysql://localhost:3306/"+shema+"?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8";
+    public static String url="jdbc:mysql://localhost:3306/"+schema+"?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8";
     public static String user="root";
     public static String passwd="suntest";
 
