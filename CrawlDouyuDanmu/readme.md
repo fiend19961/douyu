@@ -4,4 +4,4 @@
 
 创建schema douyu
 
-执行sql
+执行danmu.sql
